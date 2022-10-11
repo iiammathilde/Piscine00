@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es"
+
+<head>
+<title> EL PAIS, EL PERIODICO GLOBAL</title>
+</head>
+
+<body>
+<div style="display: flex; flex-direction: row;">
+    <header>
+          <img style=" width: 100px;"  src="./images/2560px-El_Pais_logo_2007.png" alt="logo el pais">
+          <h1 style="padding-left: 50px;"> El periodico global </h1>
+
+        </header>
+</div>
+
+<div>
+    <h2> Que es el PAIS</h2>
+        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, pellensteque vel dapibus tortor, nec sagittis welt
+
+    <h2> Como functiona el periodico</h2>        
+        <p> proin mollis lacus est, eu condimentum tortor pellensteque vel. Duis at mi at sapien semper viverra.
+        <h3> edition territoriales</h3>
+        <ol>
+           <li> SEVILLA</li>
+           <li> BARCELONA</li>
+           <li> VALENCIA</li>
+           <li> SANTIAGO DE COMPOSTELA</li>
+        
+        </ol> Su Historia
+        <p>Sevilla es la capital de Andalucía, que tiene 8 provincias. Probablemente fundada por los íberos</p>
+        <p>Barcelona fue originalmente una colonia romana llamada Barcino, aunque hay evidencias de ocupación desde el año 4000 a.C.</p>
+        <p>Colonia griega y luego romana, Valencia fue la capital de un reino árabe (taifa de Valencia) de 1021 a 1238, excepto durante el reinado del Cid Campeador (1094 a 1099)</p>
+        <img style="width: 100px;" src="./images/Jose_Ortega_Spottorno.jpg" alt="histoire des villes"
+        <ul> fechas importantes
+            <li>1 de febrero de 1758 por Manuel Ruiz de Urive, es el primer diario español.</li>
+            <li>En 1697, la Gaceta de Madrid se convirtió en el primer semanario español.</li>
+            <li></li>
+         </ul>
+</div>        
+
+<a href="https://WWW.elpais.com"> lien de la page internet el pais</a>
+</body>
+
+<footer> EDICIONES EL PAIS </footer>
+
+</html>
